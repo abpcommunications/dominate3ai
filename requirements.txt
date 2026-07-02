@@ -1,0 +1,8 @@
+streamlit
+ollama
+PyJWT
+bcrypt
+reportlab                    # PDF report generation + email attachment
+extra-streamlit-components   # optional: keeps login persistent across browser refresh
+pypdf                        # extract text from uploaded PDF consulting documents
+python-docx                  # extract text from uploaded Word (.docx) consulting documents
