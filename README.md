@@ -6,7 +6,7 @@
 
 D3AI turns your business context into tiered, board-ready intelligence reports using a local LLM — no cloud inference, no data leaving the machine.
 
-*Built by [ABP Communications LLC](https://abpcommunications.com) · Hartford, CT*
+*Built by Aditya Raj, CTO and Platform Architect [ABP Communications LLC](https://abpcommunications.com) · Hartford, CT*
 
 </div>
 
@@ -127,7 +127,7 @@ ollama serve
 ollama run phi3:mini "warmup"
 
 # Launch the app:
-streamlit run app_finalv8.py
+streamlit run app_finalv9.py
 ```
 
 The app will be available at `http://localhost:8501`.
@@ -163,7 +163,7 @@ Production hardening on the roadmap: static IP, Caddy + Let's Encrypt for TLS, a
 
 ```
 dominate3ai/
-├── app_finalv8.py          # Main Streamlit application
+├── app_finalv9.py          # Main Streamlit application
 ├── auth.py                 # JWT / SQLite / bcrypt authentication
 ├── requirements.txt
 ├── .streamlit/
@@ -173,11 +173,11 @@ dominate3ai/
 
 ## About
 
-D3AI is developed by **ABP Communications LLC**, an integrated communications, consulting, technology, and creative services firm based in Hartford, CT.
+D3AI or Dominate3ai is developed by Aditya Raj, CTO and Platform Architect **ABP Communications LLC**, an integrated communications, consulting, technology, and creative services firm based in Hartford, CT.
 
 ## License
 
-_Add your chosen license here (e.g. MIT, Apache-2.0, or proprietary)._
+_Add your chosen license here (e.g. MIT, Apache-2.0, or proprietary)._ TO BE ALLOCATED
 
 ---
 
